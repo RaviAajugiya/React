@@ -7,7 +7,7 @@ import About from './components/About/About'
 import Home from './components/Home/Home'
 import Contact from './components/Contact/Contact'
 import User from './components/User/User'
-import Github, { GithubInfoLoader } from './components/Github/github'
+import Github, {GithubInfoLoader} from './components/Github/Github'
 
 // const router = createBrowserRouter([
 //   {

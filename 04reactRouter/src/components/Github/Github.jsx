@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react'
 import { useLoaderData } from 'react-router-dom'
 
 function Github() {
-
   const data = useLoaderData();
 
   // const [data, setData] = useState([])
@@ -10,7 +9,7 @@ function Github() {
   // useEffect(() => {
   //   fetch('https://api.github.com/users/RaviAajugiya')
   //     .then(res => res.json())
-  //     .then(res => setData(res))
+  //     .then(res => setData(res)) 
   // }, [])
   // console.log(data)
 
